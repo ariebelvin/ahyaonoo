@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aataekuth.cheremechuzpe.space/sitemap.xml
